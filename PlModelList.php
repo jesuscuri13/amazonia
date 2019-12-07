@@ -1,4 +1,5 @@
 <?php
+namespace Amazonia;
 use \stdClass;
 class PlModelList {
 	public const DEFAULT = "Default";

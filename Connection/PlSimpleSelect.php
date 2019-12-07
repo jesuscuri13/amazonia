@@ -1,5 +1,6 @@
 <?php
-
+namespace Amazonia\Connection;
+use \stdClass;
 class PlSimpleSelect {
     protected $_cols;
     protected $_where;

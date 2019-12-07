@@ -4,4 +4,5 @@ class PlService {
     public function __construct() {
         
     }
+    public function onStart() { }
 }
